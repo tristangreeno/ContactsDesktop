@@ -11,12 +11,24 @@ public class Contacts {
     private String number;
     private String email;
 
-    Contacts(String name, String number, String email){
+    public Contacts(String name, String number, String email){
         if(name != null && number != null && email != null) {
             this.name = name;
             this.number = number;
             this.email = email;
         }
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getNumber() {
+        return number;
     }
 
     @Override

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ContactsDesktop.iml" filepath="$PROJECT_DIR$/ContactsDesktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TDD-ContactsDesktop.iml" filepath="$PROJECT_DIR$/TDD-ContactsDesktop.iml" />
     </modules>
   </component>
 </project>
